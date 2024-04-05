@@ -1,0 +1,13 @@
+.lateral{
+    background: aqua;
+    height: 100vh;
+    width: 20%;
+    float: left;
+}
+
+.conteudo{
+    background: crimson;
+    height: 100vh;
+    width: 80%;
+    float: right;
+}
