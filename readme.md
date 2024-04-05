@@ -4,7 +4,7 @@
 - Exercício 3: [Codigo](exercicio_aula_3)
 - Exercício 4: [Codigo](exercicio_aula_4)
 - Exercício 5: [Codigo](exercicio_aula_5)
-- Exercício 6: [Codigo](exercicio_aula_6)
+
 
 ## Exercício 1:
 
@@ -128,5 +128,4 @@ Resultado HTML:
 
 ![ImagemExercicio5](/img_exercicios/exercicio5.png)
 
-## Exercício 6:
 
