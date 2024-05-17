@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+div{
+    border-radius: 10px;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    background-color: gray;
+    box-shadow: 5px 5px 5px #3c3a3a;
+}
+
+.botoes{
+    display: flex;
+    flex-direction: row;
+}
+
+button{
+    border-radius: 25px;
+    margin-left: 10px;
+}
