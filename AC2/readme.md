@@ -1,3 +1,6 @@
+### Nome: Kauã Henrique Seraphim
+### RA: 234829
+
 ## Índice
 - Exercício 7: [Codigo](exercicio_aula_7)
 - Exercício 8: [Codigo](exercicio_aula_8)
