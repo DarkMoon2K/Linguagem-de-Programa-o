@@ -39,7 +39,7 @@ Exemplo: arara
 Resultado no HTML:
 
 
-![ImagemExercicio1](/img_exercicios/exercicio1.png)
+![ImagemExercicio1](img_exercicios/exercicio1.png)
 
 
 ## Exercício 2: 
@@ -69,7 +69,7 @@ mapeie esses números para o quadrado de seus valores.
 
 Resultado no console:
 
-![ImagemExercicio2](/img_exercicios/exercicio2.png)
+![ImagemExercicio2](img_exercicios/exercicio2.png)
 
 
 ## Exercício 3:
@@ -80,9 +80,9 @@ página html com o formato abaixo:
 
 Resultado HTML:
 
-![ImagemExercicio3](/img_exercicios/exercicio3.png)
-![ImagemExercicio3pt2](/img_exercicios/exercicio3pt2.png)
-![ImagemExercicio3pt3](/img_exercicios/exercicio3pt3.png)
+![ImagemExercicio3](img_exercicios/exercicio3.png)
+![ImagemExercicio3pt2](img_exercicios/exercicio3pt2.png)
+![ImagemExercicio3pt3](img_exercicios/exercicio3pt3.png)
 
 ## Exercício 4:
 Cursos e Inscrição
@@ -107,8 +107,8 @@ Os dados deverão ser salvos em um API (utilize o mockapi.io).
 
 Resultado HTML:s
 
-![ImagemExercicio4](/img_exercicios/exercicio4.png)
-![ImagemExercicio4pt2](/img_exercicios/exercicio4pt2.png)
+![ImagemExercicio4](img_exercicios/exercicio4.png)
+![ImagemExercicio4pt2](img_exercicios/exercicio4pt2.png)
 
 
 ## Exercício 5:
@@ -126,6 +126,6 @@ lados precisam ter um espaçamento de 200px
 
 Resultado HTML:
 
-![ImagemExercicio5](/img_exercicios/exercicio5.png)
+![ImagemExercicio5](img_exercicios/exercicio5.png)
 
 
